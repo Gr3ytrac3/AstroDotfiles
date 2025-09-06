@@ -1,8 +1,8 @@
 
 # AstroDotfiles: AstroNvim Configuration with Solarized Osaka Theme
 
-![AstroNvim with Solarized Osaka Theme](https://github.com/Gr3ytrac3/AstroDotfiles/blob/ee358a3e11fed0f53773314dec781f0442698519/images/astronvim-mainframe.png)
-
+![AstroNvim with Solarized Osaka Theme](https://github.com/Gr3ytrac3/AstroDotfiles/blob/3acfa7b268873ff23c774b979fa886f546549614/images/astronvimframe.pngg)
+https://github.com/Gr3ytrac3/AstroDotfiles/blob/3acfa7b268873ff23c774b979fa886f546549614/images/astronvimframe.png
 Welcome to my personalized AstroNvim configuration repository! This project encapsulates a tailored Neovim setup optimized for C programming, kernel security research, and exploit development. Featuring the elegant Solarized Osaka theme, this configuration offers a professional, eye-friendly environment with enhanced plugin support, custom keybindings, and seamless integration for system-level coding tasks.
 
 ## Overview
