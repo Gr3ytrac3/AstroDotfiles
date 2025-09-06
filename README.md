@@ -1,5 +1,5 @@
 
-# AstroDotfiles: AstroNvim Config with Solarized Osaka Theme
+# AstroDotfiles: Configuration with Solarized Osaka Theme
 
 ![AstroNvim with Solarized Osaka Theme](https://github.com/Gr3ytrac3/AstroDotfiles/blob/72c07e534c9efe275cecf0d2d27148beb4c37158/images/astronvimframe.png)
 
